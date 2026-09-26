@@ -6,6 +6,7 @@
 ## Title-koKR:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff0055FF옵션 GUI|r
 ## Title-esES:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff0055FFOpciones|r
 ## Title-esMX:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff0055FFOpciones|r
+## Version: 1.0
 ## Notes: GUI for Deadly Boss Mods
 ## Notes-zhCN: Deadly Boss Mods的设置界面
 ## Notes-ruRU: Графический интерфейс пользователя DBM
